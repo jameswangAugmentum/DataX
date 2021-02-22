@@ -72,12 +72,16 @@ DataX目前已经有了比较全面的插件体系，主流的RDBMS数据库、N
 
 This software is free to use under the Apache License [Apache license](https://github.com/alibaba/DataX/blob/master/license.txt).
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FjameswangAugmentum%2FDataX.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FjameswangAugmentum%2FDataX?ref=badge_large)
+
 # 
 请及时提出issue给我们。请前往：[DataxIssue](https://github.com/alibaba/DataX/issues)
 
 # 开源版DataX企业用户
 
 ![Datax-logo](https://github.com/alibaba/DataX/blob/master/images/datax-enterprise-users.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FjameswangAugmentum%2FDataX.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FjameswangAugmentum%2FDataX?ref=badge_shield)
 
 ```
 长期招聘 联系邮箱：datax@alibabacloud.com
@@ -124,4 +128,3 @@ This software is free to use under the Apache License [Apache license](https://g
 
 - DataX开源用户交流群5
     - <img src="https://github.com/alibaba/DataX/blob/master/images/DataX%E5%BC%80%E6%BA%90%E7%94%A8%E6%88%B7%E4%BA%A4%E6%B5%81%E7%BE%A45.jpg" width="20%" height="20%">
-
